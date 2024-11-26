@@ -10,7 +10,7 @@
 <body>
     <h1>Welcome to My Website</h1>
     <p>This is a simple HTML template.</p>
-    <button id="myButton">Click Me Now</button>
+    <button id="myButton">Click Me Now And Koco</button>
     <script src="file.js"></script>
 </body>
 </html>
